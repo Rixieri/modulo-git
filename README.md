@@ -1,3 +1,3 @@
 Teste Git
 
-subindo remoto revert
+subindo remoto
